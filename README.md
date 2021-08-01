@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BallerJay)](https://github.com/anuraghazra/github-readme-stats)?theme=THEME_NAME dark
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BallerJay)](https://github.com/anuraghazra/github-readme-stats?theme=THEME_NAME dark)
 
 Here are some ideas to get you started:
 
